@@ -2,8 +2,9 @@
 
 ### Notation
 
-| $R_i$ | Omnipool reserves of asset $i$ |
+| Variable | Description |
 | --- | --- |
+| $R_i$ | Omnipool reserves of asset $i$ |
 | $Q_i$ | LRNA in subpool for asset $i$ |
 | $S_i$ | Shares in asset $i$ subpool |
 | $\omega_i$ | Weight cap for asset $i$ in Omnipool |
