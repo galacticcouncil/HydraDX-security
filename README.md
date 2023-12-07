@@ -1,13 +1,21 @@
 # HydraDX-security
-This repository contains the following security resources relating to the HydraDX blockchain:
+A collection of security resources relating to the HydraDX blockchain:
 
 * [Audit Reports](https://github.com/galacticcouncil/HydraDX-security/audit-reports)
 * [Invariants Specification](https://github.com/galacticcouncil/HydraDX-security/invariants)
 
 ## Audit Reports
+### July 2023 - Stableswap Security Audit by Runtime Verification
+Conducted by [Runtime Verification](https://runtimeverification.com/), published in June 2022.  
+Read the full report [here](https://github.com/galacticcouncil/HydraDX-security/audit-reports/230724-Runtime-Verification-Stableswap-Security-Audit.pdf).
+
+### June 2023 - EMA Oracle Security Audit by Runtime Verification
+Conducted by [Runtime Verification](https://runtimeverification.com/), published in June 2022.  
+Read the full report [here](https://github.com/galacticcouncil/HydraDX-security/audit-reports/230619-Runtime-Verification-EMA-Oracle-Security-Audit.pdf).
+
 ### September 2022 - Omnipool Security Audit by Runtime Verification
 Conducted by [Runtime Verification](https://runtimeverification.com/), published in September 2022.  
-Read the full report [here](https://github.com/galacticcouncil/HydraDX-security/audit-reports/220907-Runtime-Verification-Security-Audit.pdf).
+Read the full report [here](https://github.com/galacticcouncil/HydraDX-security/audit-reports/220907-Runtime-Verification-Omnipool-Security-Audit.pdf).
 
 ### March 2022 - Omnipool Economic and Mathematical Audit by Blockscience
 Conducted by [BlockScience](https://block.science/), published in March 2022.  
