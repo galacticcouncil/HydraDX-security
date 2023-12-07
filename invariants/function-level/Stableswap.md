@@ -25,7 +25,9 @@ $$
 - After adding liquidity, we should have
 
 $$
-D^+ \geq D\\
+D^+ \geq D
+$$
+$$
 D^+ S \geq D S^+ \geq (D^+ - 1)S
 $$
 
@@ -34,6 +36,8 @@ $$
 - After removing liquidity, we should have
 
 $$
-D^+\leq D\\
+D^+\leq D
+$$
+$$
 D(S^+ + 1) \geq D^+ S \geq D S^+
 $$
