@@ -2,8 +2,9 @@
 
 ### Notation
 
-| $R_i$ | Stableswap reserve of asset $i$ |
+| Variable | Description |
 | --- | --- |
+| $R_i$ | Stableswap reserve of asset $i$ |
 | $S$ | Shares in stableswap pool |
 | $D$ | Stableswap invariant |
 
