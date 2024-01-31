@@ -2,7 +2,10 @@
 A collection of security resources relating to the HydraDX blockchain:
 
 * [Audit Reports](/audit-reports)
+* [Critical Vulnerability reports](/criticals.md)
 * [Invariants Specification](/invariants)
+* [Mitigation Mechanisms](/mitigation_mechanisms.md) - a set of mechanisms designed to safeguard against economic exploits
+* [Threat Modelling](/threat_modelling.md) - a collection of known attack vectors
 
 ## Audit Reports
 ### July 2023 - Stableswap Security Audit by Runtime Verification
