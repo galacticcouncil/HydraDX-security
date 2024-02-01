@@ -20,8 +20,10 @@
 - Attack on stableswap as A (amplification) changes
 - Implications of having stablepool shares in the Omnipool - rounding, conversions, add/withdraw liquidity, IL from fees?
 - Stableswap - manipulation via `withdraw_asset_amount` (buy / add liquidity), missing in Curve implementation
+- Stableswap - manipulation via `add_liquidity_shares` (buy / add liquidity), missing in Curve implementation
 
 ## Oracles
+- Correct oracle price and liquidity update via Omnipool and Stableswap hooks.
 - Oracle price manipulation
     - What damage can be done? (withdrawal limits, DCA)
 
