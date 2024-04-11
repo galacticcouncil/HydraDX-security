@@ -9,7 +9,7 @@ A collection of security resources relating to the HydraDX blockchain:
 
 ## Audit Reports
 ### April 2024 - Code4rena Challenge
-Conducted by 24 independent security researchers that participated in an audit challenge on Code4rena.  
+Conducted by 27 independent security researchers that participated in an audit challenge on Code4rena.  
 Scope: Omnipool, Stablepools, Oracles, Circuit Breaker.  
 Read the full report [in this repo](/audit-reports/240410-code4rena-competition.md) or on the [Code4rena website](https://code4rena.com/reports/2024-02-hydradx).
 
